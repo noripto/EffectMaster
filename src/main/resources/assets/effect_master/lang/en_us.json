@@ -1,0 +1,13 @@
+{
+  "effect_master.config.title": "Effect Master",
+  "effect_master.config.category.effects": "Effects",
+
+  "effect_master.option.disabled": "Disabled",
+  "effect_master.option.default": "Default",
+  "effect_master.option.persistent": "Persistent",
+
+  "effect_master.command.player_only": "This command has to be run by a player.",
+  "effect_master.command.read_only": "Only the server owner can change these settings. Opening in read-only mode.",
+
+  "effect_master.message.owner_only": "Only the server owner can change effect settings."
+}
