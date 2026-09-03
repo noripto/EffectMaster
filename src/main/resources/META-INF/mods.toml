@@ -24,3 +24,10 @@ description='''${mod_description}'''
     versionRange="[1.20,1.21)"
     ordering="NONE"
     side="BOTH"
+# 設定画面は Cloth Config で組み立てているため必須。
+[[dependencies.${mod_id}]]
+    modId="cloth_config"
+    mandatory=true
+    versionRange="[11.1.106,)"
+    ordering="NONE"
+    side="BOTH"
