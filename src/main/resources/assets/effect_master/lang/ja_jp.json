@@ -1,0 +1,13 @@
+{
+  "effect_master.config.title": "Effect Master",
+  "effect_master.config.category.effects": "ステータス効果",
+
+  "effect_master.option.disabled": "無効",
+  "effect_master.option.default": "デフォルト",
+  "effect_master.option.persistent": "永続",
+
+  "effect_master.command.player_only": "このコマンドはプレイヤーが実行してください。",
+  "effect_master.command.read_only": "設定を変更できるのはサーバーのオーナーだけです。閲覧専用で開きます。",
+
+  "effect_master.message.owner_only": "設定を変更できるのはサーバーのオーナーだけです。"
+}
